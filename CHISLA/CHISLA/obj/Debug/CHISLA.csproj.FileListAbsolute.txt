@@ -1,0 +1,7 @@
+C:\Users\1409-4\source\repos\CHISLA\CHISLA\obj\Debug\CHISLA.csproj.AssemblyReference.cache
+C:\Users\1409-4\source\repos\CHISLA\CHISLA\obj\Debug\CHISLA.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\source\repos\CHISLA\CHISLA\bin\Debug\CHISLA.exe.config
+C:\Users\1409-4\source\repos\CHISLA\CHISLA\bin\Debug\CHISLA.exe
+C:\Users\1409-4\source\repos\CHISLA\CHISLA\bin\Debug\CHISLA.pdb
+C:\Users\1409-4\source\repos\CHISLA\CHISLA\obj\Debug\CHISLA.exe
+C:\Users\1409-4\source\repos\CHISLA\CHISLA\obj\Debug\CHISLA.pdb
